@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Helin</h1>
-<h3 align="center">Passionate AI Developer from Turkey</h3>
+<h3 align="center">Passionate AI Developer</h3>
 
 - 🔭 Currently working on an **AI React Project**
 - 🌱 Learning about **Computer Vision**
