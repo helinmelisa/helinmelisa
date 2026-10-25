@@ -14,8 +14,8 @@ I build vision systems that work in real products and hold up under careful test
 
 | Project | What it does | Stack |
 |---|---|---|
-| [hand_tremor_quantifier](https://github.com/helinmelisa/hand_tremor_quantifier) | Real-time hand tremor frequency and amplitude from a webcam, with no neural nets (optical flow + FFT), aimed at Parkinson's screening research | Python, OpenCV, NumPy |
-| [fatigue_detector](https://github.com/helinmelisa/fatigue_detector) | Driver drowsiness and yawn detection from facial landmarks (EAR/MAR fatigue score) | Python, MediaPipe, OpenCV |
+| [hand-tremor-quantifier](https://github.com/helinmelisa/hand-tremor-quantifier) | Real-time hand tremor frequency and amplitude from a webcam, with no neural nets (optical flow + FFT), aimed at Parkinson's screening research | Python, OpenCV, NumPy |
+| [fatigue-detector](https://github.com/helinmelisa/fatigue-detector) | Driver drowsiness and yawn detection from facial landmarks (EAR/MAR fatigue score) | Python, MediaPipe, OpenCV |
 | [cheat-detection](https://github.com/helinmelisa/cheat-detection) | Explainable video + audio analysis that flags suspicious behaviour in exams and interviews | Python, CV, audio |
 | [mirror-sketch](https://github.com/helinmelisa/mirror-sketch) | Live webcam "pencil sketch" mirror with several drawing modes | Python, OpenCV |
 | [hand-games](https://github.com/helinmelisa/hand-games) | Full-stack gesture-controlled games with auth and score tracking | React, Node.js, hand tracking |
