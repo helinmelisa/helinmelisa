@@ -6,6 +6,7 @@ I build vision systems that work in real products and hold up under careful test
 
 - 🎓 MSc thesis on **monocular depth estimation** with **FEUP** and **Bosch Car Multimedia Portugal**
 - 🚗 Research intern at **Bosch Car Multimedia Portugal**: automatic validation of 3D human keypoint annotations for in-cabin occupant monitoring
+- 📺 Student collaborator at **FEUP DEI** (*Bolsa de Colaboradores*, U.Porto): news pipeline for the department's digital signage (web/Telegram/email collection, LLM summaries, WordPress review, auto-publishing to Xibo screens)
 - 🏋️ **Morla Moves**: real-time pose estimation for a fitness platform (motion alignment scoring, biomechanical feedback, compensation detection)
 - 🤖 **NovaForge**: AI recruitment platform and an AI cheat-detection system for online exams
 - 📍 Porto, Portugal · open to CV / ML roles
