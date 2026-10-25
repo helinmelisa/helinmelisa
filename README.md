@@ -1,6 +1,6 @@
 ### Hi, I'm Helin 👋
 
-**AI & Full-Stack Developer · MSc Computer Vision @ FEUP, University of Porto**
+**AI & Full-Stack Developer · International Master in Computer Vision (IMCV) @ FEUP, University of Porto**
 
 I build vision systems that work in real products and hold up under careful testing.
 
