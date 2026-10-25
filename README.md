@@ -4,7 +4,7 @@
 
 I build vision systems that work in real products and hold up under careful testing.
 
-- 🎓 MSc dissertation on **monocular depth estimation** (FEUP)
+- 🎓 MSc thesis on **monocular depth estimation** with **FEUP** and **Bosch Car Multimedia Portugal**
 - 🚗 Research intern at **Bosch Car Multimedia Portugal**: automatic validation of 3D human keypoint annotations for in-cabin occupant monitoring
 - 🏋️ **Morla Moves**: real-time pose estimation for a fitness platform (motion alignment scoring, biomechanical feedback, compensation detection)
 - 🤖 **NovaForge**: AI recruitment platform and an AI cheat-detection system for online exams
