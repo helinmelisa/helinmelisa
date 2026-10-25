@@ -1,53 +1,30 @@
-<h1 align="center">Hi there! 👋 I'm Helin</h1>
-<h3 align="center">Passionate AI Developer</h3>
+### Hi, I'm Helin 👋
 
-- 🔭 Currently working on an **AI React Project**
-- 🌱 Learning about **Computer Vision**
-- 💬 Feel free to ask me about anything
-- 📫 You can reach me at [helinergezen@gmail.com](mailto:helinergezen@gmail.com)
+**AI & Full-Stack Developer · MSc Computer Vision @ FEUP, University of Porto**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/helin-ergezen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helin-ergezen" height="30" width="40" />
-  </a>
-</p>
+I build vision systems that work in real products and hold up under careful testing.
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+- 🎓 MSc dissertation on **monocular depth estimation** (FEUP)
+- 🚗 Research intern at **Bosch Car Multimedia Portugal**: automatic validation of 3D human keypoint annotations for in-cabin occupant monitoring
+- 🏋️ **Morla Moves**: real-time pose estimation for a fitness platform (motion alignment scoring, biomechanical feedback, compensation detection)
+- 🤖 **NovaForge**: AI recruitment platform and an AI cheat-detection system for online exams
+- 📍 Porto, Portugal · open to CV / ML roles
 
-</p>
+#### Selected projects
 
+| Project | What it does | Stack |
+|---|---|---|
+| [hand_tremor_quantifier](https://github.com/helinmelisa/hand_tremor_quantifier) | Real-time hand tremor frequency and amplitude from a webcam, with no neural nets (optical flow + FFT), aimed at Parkinson's screening research | Python, OpenCV, NumPy |
+| [fatigue_detector](https://github.com/helinmelisa/fatigue_detector) | Driver drowsiness and yawn detection from facial landmarks (EAR/MAR fatigue score) | Python, MediaPipe, OpenCV |
+| [cheat-detection](https://github.com/helinmelisa/cheat-detection) | Explainable video + audio analysis that flags suspicious behaviour in exams and interviews | Python, CV, audio |
+| [mirror-sketch](https://github.com/helinmelisa/mirror-sketch) | Live webcam "pencil sketch" mirror with several drawing modes | Python, OpenCV |
+| [hand-games](https://github.com/helinmelisa/hand-games) | Full-stack gesture-controlled games with auth and score tracking | React, Node.js, hand tracking |
+| [inestec-opportunity-tracker](https://github.com/helinmelisa/inestec-opportunity-tracker) | Watches INESC TEC openings, sends email alerts and drafts motivation letters with an LLM | Python, scraping, LLM |
 
-<h3 align="left">Tech Stack:</h3>
+#### Tools I use most
 
-**AI/ML:**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-</p>
+`Python` `PyTorch` `OpenCV` `MediaPipe` `scikit-learn` `TypeScript` `React` `Node.js` `FastAPI` `Docker` `Git` `Linux`
 
-**Frontend Development:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</p>
+#### Contact
 
-**Tools:**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+[LinkedIn](https://www.linkedin.com/in/helin-ergezen) · [helinergezen@gmail.com](mailto:helinergezen@gmail.com)
